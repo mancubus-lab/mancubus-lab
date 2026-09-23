@@ -48,6 +48,6 @@ A colorful arcade project with ten difficulty levels, saved best scores, and key
 
 ## In the lab
 
-- Exploring procedural visuals, character animation, and responsive game feel.
-- Building small browser games and learning through playable prototypes.
-- Sharing source code, experiments, and progress as the projects evolve.
+- **Homelab & Proxmox** — exploring virtualization, self-hosted services, and the infrastructure behind a connected home.
+- **Home Assistant & home automation** — bringing devices, sensors, and everyday routines together into a home that works smarter.
+- **Unity & creative coding** — experimenting with procedural visuals, playful mechanics, and small browser games.
