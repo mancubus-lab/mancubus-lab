@@ -9,7 +9,7 @@
 <p align="center"><strong>Small games. Playful experiments.</strong><br>
 Building games and interactive experiments with Unity and C#.</p>
 
-<p align="center">Unity &nbsp; / &nbsp; C# &nbsp; / &nbsp; WebGL &nbsp; / &nbsp; Procedural graphics</p>
+<p align="center">Unity &nbsp; / &nbsp; C# &nbsp; / &nbsp; Android &nbsp; / &nbsp; WebGL &nbsp; / &nbsp; Procedural graphics</p>
 
 ## Featured projects
 
@@ -19,13 +19,15 @@ Building games and interactive experiments with Unity and C#.</p>
 
 ### Ember Dragon
 
-<a href="https://github.com/mancubus-lab/snake-3d-unity"><img src="assets/ember-dragon.png" alt="Ember Dragon: an emerald dragon on a floating snake arena" width="100%"></a>
+<a href="https://github.com/mancubus-lab/snake-3d-unity"><img src="assets/ember-dragon.png" alt="Ember Dragon WebGL: campaign level with brick obstacles and an emerald dragon" width="100%"></a>
 
-A snake-inspired arcade game with an emerald dragon, glowing fire pearls, golden spines, and a flickering flame tail.
+A dragon-themed snake arcade game for Android and WebGL. Play Classic or a 10-level campaign, collect fire pearls, build combos, dash, and use shields and magnets. Earn stars, improve your campaign rating, and evolve your emerald dragon.
 
-**Unity · C# · Procedural 3D**
+**Unity · C# · Android · WebGL · English / Russian**
 
-[Source code](https://github.com/mancubus-lab/snake-3d-unity) · [Run locally](https://github.com/mancubus-lab/snake-3d-unity#build-and-run-locally)
+**Status:** Android 1.0 is in Google Play internal testing. The refreshed WebGL build has been checked in Chrome for keyboard play, pause, and campaign entry.
+
+[Project repository (private)](https://github.com/mancubus-lab/snake-3d-unity) · [Local Web build instructions (access required)](https://github.com/mancubus-lab/snake-3d-unity#web-development-build)
 
 </td>
 <td width="50%" valign="top">
@@ -44,7 +46,7 @@ A colorful arcade project with ten difficulty levels, saved best scores, and key
 </tr>
 </table>
 
-<sub>Previews captured from local builds. Fluppy Bird shows the HTML5 fallback. Public browser demos are not available yet.</sub>
+<sub>Previews captured from local builds. Ember Dragon shows the refreshed WebGL campaign on September 25, 2026. Fluppy Bird shows the HTML5 fallback. Public browser demos are not available yet.</sub>
 
 ## In the lab
 
