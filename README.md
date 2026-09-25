@@ -19,7 +19,7 @@ Building games and interactive experiments with Unity and C#.</p>
 
 ### Ember Dragon
 
-<a href="https://github.com/mancubus-lab/snake-3d-unity"><img src="assets/ember-dragon.png" alt="Ember Dragon WebGL: campaign level with brick obstacles and an emerald dragon" width="100%"></a>
+<a href="https://github.com/mancubus-lab/snake-3d-unity"><img src="assets/ember-dragon-web-campaign-2026-09-25.png" alt="Ember Dragon WebGL: campaign level with brick obstacles and an emerald dragon" width="100%"></a>
 
 A dragon-themed snake arcade game for Android and WebGL. Play Classic or a 10-level campaign, collect fire pearls, build combos, dash, and use shields and magnets. Earn stars, improve your campaign rating, and evolve your emerald dragon.
 
